@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "222850470199",
+    "project_id": "inventarios-765c9",
+    "storage_bucket": "inventarios-765c9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:222850470199:android:58e314cb50aa8039cecab2",
+        "android_client_info": {
+          "package_name": "com.edu.inventario"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "222850470199-p0bo5fd5i469cfqdtnid215olgih6m2f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcWsUyfug9y-DaVHZpMV6PL9PTVq3DOu0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "222850470199-p0bo5fd5i469cfqdtnid215olgih6m2f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
